@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+ #answer_card {
+  background-color: #ffffe1;
+ }
+
+ .link {
+  text-decoration: none;
+ }
